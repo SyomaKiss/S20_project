@@ -1,15 +1,15 @@
 # Data
-###Intro
+### Intro
 
 One of the challenges of using machine learning techniques with medical data is the frequent dearth of source image data on which to train. A representative example is automated lung cancer diagnosis, where nodule images need to be classified as suspicious or benign. In this project we investigate generative deep learning models for an ability to create realistic nodule images.
 
-###Data used
+### Data used
 
 * NIH dataset: https://www.kaggle.com/nih-chest-xrays/data  
 Review: https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/  
 Contains 79 images labeled with bboxes encompassing lung nodules (possibly only one of several presented on the picture)
 
-###Data which could be potentially used in future work
+### Data which could be potentially used in future work
 
 * Manual labeling of NIH images. It contains much more nodule images without bbox labeling than with.
 * JSRT http://db.jsrt.or.jp/eng.php 
