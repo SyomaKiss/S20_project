@@ -23,8 +23,8 @@ _C.dataset.augmentations = []
 _C.dataset.transforms = [{"name": "ToTensor"}]
 _C.dataset.root = CN(new_allowed=True)
 _C.dataset.root.NIH = "/datasets/ilyas/ChestNets/images"
-_C.dataset.root.JSRT = "/home/semyon/cancer_astro/data/pngversion"
-data_annotation_root = '/home/semyon/cancer_astra/data'
+_C.dataset.root.JSRT = "/home/semyon/ds_project/data/pngversion"
+data_annotation_root = '/home/semyon/ds_project/data'
 
 # Train
 _C.dataset.train = CN()
