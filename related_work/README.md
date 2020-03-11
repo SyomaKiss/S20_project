@@ -1,5 +1,15 @@
 # Related work
 
+No papers addressing the problem of generating of nodules on X-ray images are found on the web.
+
+There are **two studies** which use CT imaging for nodule generation.
+The following paper is the closest to the problem but it proposes the nodule generation on 2D CT images without a context such as bony structures or lung patterns. [2D_CTnodulesGeneration.pdf](/.attachments/2D_CTnodulesGeneration-57f5dfe5-b507-4307-8552-44ac1acf686b.pdf)
+
+Another one employs 3D CT images to generate nodules. [3D_CTnodulesGeneration.pdf](/.attachments/3D_CTnodulesGeneration-eae17bd4-5c48-432c-9cb6-670d737dc7f9.pdf)
+
+
+
+Review of all GANs in the medical image analysis: https://github.com/xinario/awesome-gan-for-medical-imaging
 
 # Medical Image Synthesis
 - [Medical Image Synthesis with Context-Aware Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Medical+Image+Synthesis+with+Context-Aware+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1612.05362)
