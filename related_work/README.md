@@ -11,7 +11,9 @@ Another one employs 3D CT images to generate nodules. [3D_CTnodulesGeneration.pd
 
 Review of all GANs in the medical image analysis: https://github.com/xinario/awesome-gan-for-medical-imaging
 
-# Medical Image Synthesis
+### GAN application in medical imaging
+
+##### Medical Image Synthesis
 - [Medical Image Synthesis with Context-Aware Generative Adversarial Networks] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Medical+Image+Synthesis+with+Context-Aware+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1612.05362)
 - [Medical Image Synthesis with Deep Convolutional Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Medical+Image+Synthesis+with+Deep+Convolutional+Adversarial+Networks&btnG=) [[TBME]](https://ieeexplore.ieee.org/abstract/document/8310638/) (published vision of the above preprint)
 - [Deep MR to CT Synthesis using Unpaired Data] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+MR+to+CT+Synthesis+using+Unpaired+Data&btnG=) [[arXiv]](https://arxiv.org/abs/1708.01155)
@@ -98,7 +100,7 @@ Review of all GANs in the medical image analysis: https://github.com/xinario/awe
 - [A modality conversion approach to MV-DRs and kV-DRRs registration using information bottlenecked conditional generative adversarial network] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=A+modality+conversion+approach+to+MV-DRs+and+kV-DRRs+registration+using+information+bottlenecked+conditional+generative+adversarial+network&btnG=) [[MP]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13770)
 
 
-# Reconstruction
+##### Reconstruction
 - [Compressed Sensing MRI Reconstruction with Cyclic Loss in Generative Adversarial Networks] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+with+Cyclic+Loss+in+Generative+Adversarial+Networks&btnG=) [[arXiv]](https://arxiv.org/abs/1709.00753)
 - [Compressed Sensing MRI Reconstruction using a Generative Adversarial Network with a Cyclic Loss] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Compressed+Sensing+MRI+Reconstruction+using+a+Generative+Adversarial+Network+with+a+Cyclic+Loss&btnG=) [[TMI]](https://ieeexplore-ieee-org.cyber.usask.ca/abstract/document/8327637/) (published version of the above preprint)
 - [Deep Generative Adversarial Networks for Compressed Sensing (GANCS) Automates MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0,5&q=Deep+Generative+Adversarial+Networks+for+Compressed+Sensing+(GANS)+Automated+MRI) [[arXiv]](https://arxiv.org/abs/1706.00051) [[code]](https://github.com/gongenhao/GANCS)
